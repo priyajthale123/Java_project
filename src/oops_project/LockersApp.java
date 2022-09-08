@@ -51,6 +51,7 @@ public class LockersApp
 			else 
 			{
 		       System.out.println("\n\tInvaled Input");
+				continue;
 		     
 		       
 			}	
