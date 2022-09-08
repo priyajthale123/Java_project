@@ -48,6 +48,12 @@ public class LockersApp
 				System.out.println("\nExiting The App ");
 				break;
 			}
+			else 
+			{
+		       System.out.println("\n\tInvaled Input");
+		     
+		       
+			}	
 			
 			}
 			else 
