@@ -15,7 +15,7 @@ public class LockersApp
 
 			app.displayMenu();
 
-			System.out.println("\n\tEnter your choise\n");
+			System.out.println("\n\tEnter your choice\n");
 			ch = Integer.parseInt(obj.nextLine());
 			
 			if(ch>0 && ch<6)
